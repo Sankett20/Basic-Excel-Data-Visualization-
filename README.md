@@ -1,0 +1,5 @@
+# Basic-Excel-Data-Visualization-
+Basic and simple data cleaning and visualization through pivot tables and column charts in Microsoft Excel.
+This is small Excel project. Which includes basic data cleaning and visualization through Pivot tables and column charts. First, I saw raw data contained in an Excel file. In this Excel sheet, there were main topics such as segment, ship mode, order ID, and sub-topic such as consumer, corporate, home office, first class, same day, second class, standard class. these were arranged in wrong way and that is why sales were present in the wrong way and in an ununderstable format.
+So to convert it into an understable format, I just used the filter option to filter out blank cells from First class, then copied those sales and the order ID using the shortcut "ctrl+shift+down arrow" for First class which is incuded in consumer. then cleared filter for first class and did same thing for Same day, Second Class, Standard Class one by one. and done.
+After that, I created a simple pivot table and column chart based on that to visualize simple data.
